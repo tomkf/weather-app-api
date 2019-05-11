@@ -10,12 +10,12 @@
 }
 
 #search-box{
-      display: flex;
-    justify-content: center;
-padding-top: 35px;
-    height: 66px;
+ display: flex;
+ justify-content: center;
+ padding-top: 35px;
+ height: 66px;
 }
 
 #text {
-  padding-left: 8px;
+ padding-left: 8px;
 }
